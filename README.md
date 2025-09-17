@@ -71,10 +71,10 @@ For a detailed explanation of insights, check the full PDF report:
 ---
 
 ##  Repository Structure  
-- `Power%20BI.pbix` → Main Power BI project file  
-- `[Power BI.pdf](https://github.com/user-attachments/files/22389202/Power.BI.pdf)` → Exported report  
-- `Insights%20on%20Online%20Retail%20dataset.pdf` → Written insights & explanation  
-- `Question%201.png,Question%202.pngQuestion%203.png` → Screenshots of dashboards  
+- `Power BI.pbix` → Main Power BI project file  
+- `Power BI.pdf)` → Exported report  
+- `Insights on Online Retail dataset.pdf` → Written insights & explanation  
+- `Question 1.png,Question 2.pngQuestion 3.png` → Screenshots of dashboards  
 - `README.md` → Project documentation (this file)  
 
 ---
